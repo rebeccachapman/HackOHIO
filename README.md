@@ -1,4 +1,4 @@
-# HackOHIO
+# HackOHI/O
 This is for The Ohio State University hackathon 2017.
 
 
