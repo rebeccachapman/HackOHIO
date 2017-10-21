@@ -1,0 +1,2608 @@
+trip {
+  trip_id: "609570"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.984920501708984
+  longitude: -82.77177429199219
+}
+timestamp: 1508617889
+vehicle {
+  id: "11003"
+  label: "1003"
+}
+
+trip {
+  trip_id: "610530"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.9434928894043
+  longitude: -82.97052001953125
+}
+timestamp: 1508617906
+vehicle {
+  id: "11004"
+  label: "1004"
+}
+
+trip {
+  trip_id: "608704"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.043495178222656
+  longitude: -82.97726440429688
+  bearing: 180.0
+  speed: 6.558918357768562e-06
+}
+timestamp: 1508617912
+vehicle {
+  id: "11012"
+  label: "1012"
+}
+
+trip {
+  trip_id: "609059"
+  start_date: "20171021"
+  route_id: "009"
+}
+position {
+  latitude: 40.06076431274414
+  longitude: -82.90956115722656
+  bearing: 270.0
+}
+timestamp: 1508617908
+vehicle {
+  id: "11013"
+  label: "1013"
+}
+
+trip {
+  trip_id: "610972"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 39.92501449584961
+  longitude: -82.89874267578125
+  speed: 6.731521352776326e-06
+}
+timestamp: 1508617907
+vehicle {
+  id: "11019"
+  label: "1019"
+}
+
+trip {
+  trip_id: "612658"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.059410095214844
+  longitude: -82.95220947265625
+  bearing: 90.0
+}
+timestamp: 1508617897
+vehicle {
+  id: "11022"
+  label: "1022"
+}
+
+trip {
+  trip_id: "607746"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.14560317993164
+  longitude: -82.94430541992188
+  bearing: 90.0
+  speed: 9.493171091889963e-06
+}
+timestamp: 1508617898
+vehicle {
+  id: "11026"
+  label: "1026"
+}
+
+trip {
+  trip_id: "606000"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 40.04214096069336
+  longitude: -83.0185775756836
+  speed: 7.5945367825625e-06
+}
+timestamp: 1508617905
+vehicle {
+  id: "11027"
+  label: "1027"
+}
+
+trip {
+  trip_id: "608266"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 40.04875946044922
+  longitude: -82.90910339355469
+  bearing: 180.0
+  speed: 6.904124347784091e-06
+}
+timestamp: 1508617909
+vehicle {
+  id: "11033"
+  label: "1033"
+}
+
+trip {
+  trip_id: "607158"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.915443420410156
+  longitude: -82.88007354736328
+  bearing: 90.0
+  speed: 6.904124347784091e-06
+}
+timestamp: 1508617897
+vehicle {
+  id: "11035"
+  label: "1035"
+}
+
+trip {
+  trip_id: "605358"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.99076461791992
+  longitude: -83.00628662109375
+  bearing: 180.0
+  speed: 1.898634195640625e-06
+}
+timestamp: 1508617897
+vehicle {
+  id: "11037"
+  label: "1037"
+}
+
+trip {
+  trip_id: "608234"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.95597839355469
+  longitude: -82.99980926513672
+  bearing: 90.0
+}
+timestamp: 1508617904
+vehicle {
+  id: "11038"
+  label: "1038"
+}
+
+trip {
+  trip_id: "607689"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.99081802368164
+  longitude: -82.98481750488281
+  bearing: 225.0
+}
+timestamp: 1508617907
+vehicle {
+  id: "11039"
+  label: "1039"
+}
+
+trip {
+  trip_id: "607101"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.91651916503906
+  longitude: -82.89657592773438
+  bearing: 270.0
+  speed: 3.79726839128125e-06
+}
+timestamp: 1508617911
+vehicle {
+  id: "11042"
+  label: "1042"
+}
+
+trip {
+  trip_id: "609556"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.978187561035156
+  longitude: -82.84508514404297
+  bearing: 315.0
+}
+timestamp: 1508617907
+vehicle {
+  id: "11043"
+  label: "1043"
+}
+
+trip {
+  trip_id: "610275"
+  start_date: "20171021"
+  route_id: "021"
+}
+position {
+  latitude: 39.940792083740234
+  longitude: -83.11205291748047
+}
+timestamp: 1508617890
+vehicle {
+  id: "11044"
+  label: "1044"
+}
+
+trip {
+  trip_id: "610494"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.96318817138672
+  longitude: -82.97040557861328
+  bearing: 180.0
+  speed: 5.523299478227273e-06
+}
+timestamp: 1508617901
+vehicle {
+  id: "11104"
+  label: "1104"
+}
+
+trip {
+  trip_id: "608767"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.96626281738281
+  longitude: -83.00202941894531
+  bearing: 270.0
+  speed: 5.005490038456628e-06
+}
+timestamp: 1508617898
+vehicle {
+  id: "11105"
+  label: "1105"
+}
+
+trip {
+  trip_id: "609554"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.968116760253906
+  longitude: -82.94992065429688
+  bearing: 270.0
+  speed: 1.2082217608622159e-06
+}
+timestamp: 1508617894
+vehicle {
+  id: "11106"
+  label: "1106"
+}
+
+trip {
+  trip_id: "608717"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.090049743652344
+  longitude: -82.99237060546875
+  bearing: 270.0
+}
+timestamp: 1508617893
+vehicle {
+  id: "11107"
+  label: "1107"
+}
+
+trip {
+  trip_id: "605961"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 40.06992721557617
+  longitude: -83.01941680908203
+  bearing: 45.0
+}
+timestamp: 1508617909
+vehicle {
+  id: "11109"
+  label: "1109"
+}
+
+trip {
+  trip_id: "606662"
+  start_date: "20171021"
+  route_id: "004"
+}
+position {
+  latitude: 40.031211853027344
+  longitude: -83.00098419189453
+}
+timestamp: 1508617904
+vehicle {
+  id: "11115"
+  label: "1115"
+}
+
+trip {
+  trip_id: "613930"
+  start_date: "20171021"
+  route_id: "102"
+}
+position {
+  latitude: 40.0516242980957
+  longitude: -83.02017211914062
+  bearing: 180.0
+}
+timestamp: 1508617863
+vehicle {
+  id: "11124"
+  label: "1124"
+}
+
+trip {
+  trip_id: "607068"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.943077087402344
+  longitude: -82.95587158203125
+  bearing: 270.0
+  speed: 6.386314908013446e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "11127"
+  label: "1127"
+}
+
+trip {
+  trip_id: "613891"
+  start_date: "20171021"
+  route_id: "102"
+}
+position {
+  latitude: 40.08364486694336
+  longitude: -83.01830291748047
+  speed: 6.041108917997917e-06
+}
+timestamp: 1508617908
+vehicle {
+  id: "11130"
+  label: "1130"
+}
+
+trip {
+  trip_id: "610520"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.99227523803711
+  longitude: -83.0199966430664
+  bearing: 270.0
+  speed: 5.523299478227273e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "11132"
+  label: "1132"
+}
+
+trip {
+  trip_id: "612660"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.064697265625
+  longitude: -83.01943969726562
+  bearing: 180.0
+}
+timestamp: 1508617907
+vehicle {
+  id: "11136"
+  label: "1136"
+}
+
+trip {
+  trip_id: "607673"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.943416595458984
+  longitude: -83.08061218261719
+  bearing: 270.0
+  speed: 5.868505922990153e-06
+}
+timestamp: 1508617903
+vehicle {
+  id: "11206"
+  label: "1206"
+}
+
+trip {
+  trip_id: "610490"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.98199462890625
+  longitude: -83.02933502197266
+}
+timestamp: 1508617905
+vehicle {
+  id: "11301"
+  label: "1301"
+}
+
+trip {
+  trip_id: "608702"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.920806884765625
+  longitude: -82.9954605102539
+  bearing: 180.0
+  speed: 7.421933787554735e-06
+}
+timestamp: 1508617908
+vehicle {
+  id: "11302"
+  label: "1302"
+}
+
+trip {
+  trip_id: "606359"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 39.87753677368164
+  longitude: -83.03947448730469
+}
+timestamp: 1508617896
+vehicle {
+  id: "11304"
+  label: "1304"
+}
+
+trip {
+  trip_id: "605356"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.952816009521484
+  longitude: -82.99647521972656
+  bearing: 90.0
+}
+timestamp: 1508617898
+vehicle {
+  id: "11307"
+  label: "1307"
+}
+
+trip {
+  trip_id: "605355"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.9458122253418
+  longitude: -82.89657592773438
+  bearing: 90.0
+  speed: 7.421933787554735e-06
+}
+timestamp: 1508617906
+vehicle {
+  id: "11308"
+  label: "1308"
+}
+
+trip {
+  trip_id: "605435"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 40.06459045410156
+  longitude: -83.08006286621094
+  bearing: 270.0
+  speed: 1.087399596144678e-05
+}
+timestamp: 1508617907
+vehicle {
+  id: "11309"
+  label: "1309"
+}
+
+trip {
+  trip_id: "607740"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.05567169189453
+  longitude: -82.95320892333984
+  speed: 9.320568096882198e-06
+}
+timestamp: 1508617903
+vehicle {
+  id: "11310"
+  label: "1310"
+}
+
+trip {
+  trip_id: "609822"
+  start_date: "20171021"
+  route_id: "011"
+}
+position {
+  latitude: 40.032596588134766
+  longitude: -82.98942565917969
+  bearing: 270.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "11312"
+  label: "1312"
+}
+
+trip {
+  trip_id: "608265"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.97162628173828
+  longitude: -82.97659301757812
+  bearing: 270.0
+  speed: 2.2438405267166672e-06
+}
+timestamp: 1508617900
+vehicle {
+  id: "11313"
+  label: "1313"
+}
+
+trip {
+  trip_id: "607124"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.98736572265625
+  longitude: -83.10723876953125
+  bearing: 315.0
+  speed: 6.386314908013446e-06
+}
+timestamp: 1508617903
+vehicle {
+  id: "11314"
+  label: "1314"
+}
+
+trip {
+  trip_id: "606695"
+  start_date: "20171021"
+  route_id: "004"
+}
+position {
+  latitude: 39.90056610107422
+  longitude: -82.95247650146484
+}
+timestamp: 1508617893
+vehicle {
+  id: "11315"
+  label: "1315"
+}
+
+trip {
+  trip_id: "610908"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 39.92353057861328
+  longitude: -82.8802490234375
+  bearing: 90.0
+  speed: 5.350696483219508e-06
+}
+timestamp: 1508617912
+vehicle {
+  id: "11320"
+  label: "1320"
+}
+
+trip {
+  trip_id: "612013"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 40.06063461303711
+  longitude: -82.90928649902344
+  bearing: 315.0
+}
+timestamp: 1508617896
+vehicle {
+  id: "11323"
+  label: "1323"
+}
+
+trip {
+  trip_id: "612277"
+  start_date: "20171021"
+  route_id: "033"
+}
+position {
+  latitude: 40.05384063720703
+  longitude: -83.06665802001953
+  bearing: 90.0
+  speed: 4.660284048441099e-06
+}
+timestamp: 1508617903
+vehicle {
+  id: "11325"
+  label: "1325"
+}
+
+trip {
+  trip_id: "612253"
+  start_date: "20171021"
+  route_id: "033"
+}
+position {
+  latitude: 40.02219009399414
+  longitude: -83.03534698486328
+  speed: 1.7950724213733338e-05
+}
+timestamp: 1508617900
+vehicle {
+  id: "11326"
+  label: "1326"
+}
+
+trip {
+  trip_id: "611275"
+  start_date: "20171021"
+  route_id: "024"
+}
+position {
+  latitude: 39.99506378173828
+  longitude: -82.86865997314453
+  bearing: 180.0
+  speed: 9.838377081905492e-06
+}
+timestamp: 1508617896
+vehicle {
+  id: "11327"
+  label: "1327"
+}
+
+trip {
+  trip_id: "610911"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 40.0609130859375
+  longitude: -82.90966796875
+  bearing: 90.0
+}
+timestamp: 1508617911
+vehicle {
+  id: "11330"
+  label: "1330"
+}
+
+trip {
+  trip_id: "614576"
+  start_date: "20171021"
+  route_id: "121"
+}
+position {
+  latitude: 39.94935607910156
+  longitude: -83.0
+  bearing: 45.0
+  speed: 1.7260310869460227e-07
+}
+timestamp: 1508617901
+vehicle {
+  id: "11401"
+  label: "1401"
+}
+
+trip {
+  trip_id: "614575"
+  start_date: "20171021"
+  route_id: "121"
+}
+position {
+  latitude: 39.97029495239258
+  longitude: -83.00395965576172
+  speed: 6.386314908013446e-06
+}
+timestamp: 1508617905
+vehicle {
+  id: "11403"
+  label: "1403"
+}
+
+trip {
+  trip_id: "611718"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 40.01160430908203
+  longitude: -83.01046752929688
+}
+timestamp: 1508617894
+vehicle {
+  id: "11407"
+  label: "1407"
+}
+
+trip {
+  trip_id: "611681"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 39.992008209228516
+  longitude: -83.04888916015625
+  bearing: 180.0
+}
+timestamp: 1508617892
+vehicle {
+  id: "11408"
+  label: "1408"
+}
+
+trip {
+  trip_id: "611276"
+  start_date: "20171021"
+  route_id: "024"
+}
+position {
+  latitude: 40.057945251464844
+  longitude: -82.91045379638672
+  bearing: 180.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "11409"
+  label: "1409"
+}
+
+trip {
+  trip_id: "611994"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 40.0325927734375
+  longitude: -82.98908996582031
+  bearing: 270.0
+  speed: 2.2438405267166672e-06
+}
+timestamp: 1508617905
+vehicle {
+  id: "11411"
+  label: "1411"
+}
+
+trip {
+  trip_id: "608705"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.088623046875
+  longitude: -82.9918212890625
+}
+timestamp: 1508617894
+vehicle {
+  id: "11416"
+  label: "1416"
+}
+
+trip {
+  trip_id: "606358"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 39.92171096801758
+  longitude: -83.06077575683594
+  bearing: 45.0
+  speed: 8.630155207356438e-06
+}
+timestamp: 1508617891
+vehicle {
+  id: "11417"
+  label: "1417"
+}
+
+trip {
+  trip_id: "610522"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.96400833129883
+  longitude: -83.04450225830078
+}
+timestamp: 1508617741
+vehicle {
+  id: "11418"
+  label: "1418"
+}
+
+trip {
+  trip_id: "605959"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.956756591796875
+  longitude: -82.92249298095703
+  bearing: 90.0
+  speed: 5.695902473235037e-06
+}
+timestamp: 1508617899
+vehicle {
+  id: "11419"
+  label: "1419"
+}
+
+trip {
+  trip_id: "608716"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.000858306884766
+  longitude: -82.97994232177734
+  bearing: 180.0
+  speed: 4.315077603678219e-06
+}
+timestamp: 1508617901
+vehicle {
+  id: "11420"
+  label: "1420"
+}
+
+trip {
+  trip_id: "608768"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.8841438293457
+  longitude: -82.98750305175781
+  speed: 8.284949217340909e-06
+}
+timestamp: 1508617892
+vehicle {
+  id: "11422"
+  label: "1422"
+}
+
+trip {
+  trip_id: "608703"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.99702453613281
+  longitude: -83.00936889648438
+  bearing: 270.0
+}
+timestamp: 1508617910
+vehicle {
+  id: "11424"
+  label: "1424"
+}
+
+trip {
+  trip_id: "607136"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.974063873291016
+  longitude: -83.0105209350586
+  bearing: 180.0
+  speed: 3.4520621738920454e-07
+}
+timestamp: 1508617902
+vehicle {
+  id: "11425"
+  label: "1425"
+}
+
+trip {
+  trip_id: "607086"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.95919418334961
+  longitude: -83.00211334228516
+  speed: 3.279459178884281e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "11427"
+  label: "1427"
+}
+
+trip {
+  trip_id: "606322"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 39.971595764160156
+  longitude: -83.01058197021484
+  bearing: 90.0
+  speed: 6.213711913005682e-06
+}
+timestamp: 1508617890
+vehicle {
+  id: "11428"
+  label: "1428"
+}
+
+trip {
+  trip_id: "607690"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.10671615600586
+  longitude: -82.94950866699219
+  bearing: 180.0
+  speed: 8.457552212348673e-06
+}
+timestamp: 1508617908
+vehicle {
+  id: "11429"
+  label: "1429"
+}
+
+trip {
+  trip_id: "605944"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 40.02479934692383
+  longitude: -83.01414489746094
+  bearing: 180.0
+  speed: 3.279459178884281e-06
+}
+timestamp: 1508617892
+vehicle {
+  id: "11430"
+  label: "1430"
+}
+
+trip {
+  trip_id: "608203"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 40.0482063293457
+  longitude: -82.90970611572266
+  bearing: 90.0
+}
+timestamp: 1508617901
+vehicle {
+  id: "11432"
+  label: "1432"
+}
+
+trip {
+  trip_id: "607742"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.94312286376953
+  longitude: -83.08441925048828
+  bearing: 90.0
+  speed: 7.076727342791855e-06
+}
+timestamp: 1508617900
+vehicle {
+  id: "11434"
+  label: "1434"
+}
+
+trip {
+  trip_id: "609487"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.95854949951172
+  longitude: -83.03011322021484
+  bearing: 90.0
+}
+timestamp: 1508617909
+vehicle {
+  id: "11435"
+  label: "1435"
+}
+
+trip {
+  trip_id: "613932"
+  start_date: "20171021"
+  route_id: "102"
+}
+position {
+  latitude: 40.1505012512207
+  longitude: -82.9239501953125
+}
+timestamp: 1508617900
+vehicle {
+  id: "11436"
+  label: "1436"
+}
+
+trip {
+  trip_id: "611957"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 40.02296447753906
+  longitude: -83.05928802490234
+  bearing: 45.0
+}
+timestamp: 1508617891
+vehicle {
+  id: "11502"
+  label: "1502"
+}
+
+trip {
+  trip_id: "610909"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 39.95576477050781
+  longitude: -82.9149169921875
+  bearing: 180.0
+  speed: 4.4876810534333345e-06
+}
+timestamp: 1508617893
+vehicle {
+  id: "11504"
+  label: "1504"
+}
+
+trip {
+  trip_id: "611974"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 40.036865234375
+  longitude: -82.9426040649414
+  bearing: 90.0
+  speed: 1.2427423826011363e-05
+}
+timestamp: 1508617906
+vehicle {
+  id: "11505"
+  label: "1505"
+}
+
+trip {
+  trip_id: "608204"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.97337341308594
+  longitude: -82.96632385253906
+  bearing: 90.0
+  speed: 7.076727342791855e-06
+}
+timestamp: 1508617897
+vehicle {
+  id: "11506"
+  label: "1506"
+}
+
+trip {
+  trip_id: "609804"
+  start_date: "20171021"
+  route_id: "011"
+}
+position {
+  latitude: 39.978458404541016
+  longitude: -82.96092224121094
+  bearing: 180.0
+  speed: 6.213711913005682e-06
+}
+timestamp: 1508617899
+vehicle {
+  id: "11507"
+  label: "1507"
+}
+
+trip {
+  trip_id: "609552"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.95161437988281
+  longitude: -83.10755157470703
+  bearing: 270.0
+  speed: 2.5890467441058718e-06
+}
+timestamp: 1508617893
+vehicle {
+  id: "11510"
+  label: "1510"
+}
+
+trip {
+  trip_id: "609058"
+  start_date: "20171021"
+  route_id: "009"
+}
+position {
+  latitude: 39.95471954345703
+  longitude: -82.99978637695312
+  bearing: 270.0
+  speed: 3.4520621738920454e-06
+}
+timestamp: 1508617897
+vehicle {
+  id: "11512"
+  label: "1512"
+}
+
+trip {
+  trip_id: "609555"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.974029541015625
+  longitude: -82.89545440673828
+  bearing: 270.0
+  speed: 1.7260310869460227e-07
+}
+timestamp: 1508617910
+vehicle {
+  id: "11514"
+  label: "1514"
+}
+
+trip {
+  trip_id: "607674"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.969154357910156
+  longitude: -83.00135040283203
+  bearing: 270.0
+  speed: 4.660284048441099e-06
+}
+timestamp: 1508617902
+vehicle {
+  id: "11515"
+  label: "1515"
+}
+
+trip {
+  trip_id: "606323"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 40.02122497558594
+  longitude: -83.05732727050781
+  bearing: 180.0
+}
+timestamp: 1508617894
+vehicle {
+  id: "11516"
+  label: "1516"
+}
+
+trip {
+  trip_id: "612722"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.06098175048828
+  longitude: -82.90924835205078
+  bearing: 90.0
+}
+timestamp: 1508617894
+vehicle {
+  id: "11517"
+  label: "1517"
+}
+
+trip {
+  trip_id: "609501"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.97134780883789
+  longitude: -82.91900634765625
+  bearing: 90.0
+}
+timestamp: 1508617890
+vehicle {
+  id: "11518"
+  label: "1518"
+}
+
+trip {
+  trip_id: "613929"
+  start_date: "20171021"
+  route_id: "102"
+}
+position {
+  latitude: 39.965126037597656
+  longitude: -83.0009765625
+  bearing: 180.0
+}
+timestamp: 1508617892
+vehicle {
+  id: "11519"
+  label: "1519"
+}
+
+trip {
+  trip_id: "605371"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 40.020816802978516
+  longitude: -83.0248794555664
+  bearing: 180.0
+  speed: 7.249330792546971e-06
+}
+timestamp: 1508617893
+vehicle {
+  id: "11520"
+  label: "1520"
+}
+
+trip {
+  trip_id: "606663"
+  start_date: "20171021"
+  route_id: "004"
+}
+position {
+  latitude: 39.95271682739258
+  longitude: -82.99397277832031
+  bearing: 270.0
+  speed: 3.79726839128125e-06
+}
+timestamp: 1508617895
+vehicle {
+  id: "11524"
+  label: "1524"
+}
+
+trip {
+  trip_id: "605942"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.96305465698242
+  longitude: -83.00064849853516
+  bearing: 180.0
+}
+timestamp: 1508617893
+vehicle {
+  id: "11525"
+  label: "1525"
+}
+
+trip {
+  trip_id: "605958"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95612335205078
+  longitude: -82.90117645263672
+  bearing: 90.0
+  speed: 4.1424746086704545e-06
+}
+timestamp: 1508617895
+vehicle {
+  id: "11526"
+  label: "1526"
+}
+
+trip {
+  trip_id: "609486"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.9606819152832
+  longitude: -83.01277923583984
+  bearing: 90.0
+  speed: 8.630155207356438e-06
+}
+timestamp: 1508617908
+vehicle {
+  id: "11527"
+  label: "1527"
+}
+
+trip {
+  trip_id: "608779"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.996849060058594
+  longitude: -83.00762939453125
+  bearing: 90.0
+}
+timestamp: 1508617903
+vehicle {
+  id: "11528"
+  label: "1528"
+}
+
+trip {
+  trip_id: "605943"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.989593505859375
+  longitude: -83.00598907470703
+  bearing: 180.0
+  speed: 6.904124347784091e-06
+}
+timestamp: 1508617895
+vehicle {
+  id: "11529"
+  label: "1529"
+}
+
+trip {
+  trip_id: "609823"
+  start_date: "20171021"
+  route_id: "011"
+}
+position {
+  latitude: 39.93093490600586
+  longitude: -82.94337463378906
+}
+timestamp: 1508617904
+vehicle {
+  id: "11530"
+  label: "1530"
+}
+
+trip {
+  trip_id: "609488"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.95298385620117
+  longitude: -83.11084747314453
+  bearing: 90.0
+}
+timestamp: 1508617897
+vehicle {
+  id: "11531"
+  label: "1531"
+}
+
+trip {
+  trip_id: "607087"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.909786224365234
+  longitude: -82.82205200195312
+  bearing: 180.0
+}
+timestamp: 1508617900
+vehicle {
+  id: "11532"
+  label: "1532"
+}
+
+trip {
+  trip_id: "608780"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.94144821166992
+  longitude: -82.99653625488281
+  speed: 1.0701392966439016e-05
+}
+timestamp: 1508617897
+vehicle {
+  id: "11533"
+  label: "1533"
+}
+
+trip {
+  trip_id: "605422"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.944541931152344
+  longitude: -82.87218475341797
+  bearing: 270.0
+  speed: 5.1780934882117435e-06
+}
+timestamp: 1508617895
+vehicle {
+  id: "11534"
+  label: "1534"
+}
+
+trip {
+  trip_id: "607160"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.98784255981445
+  longitude: -83.02593994140625
+  bearing: 90.0
+  speed: 2.5890467441058718e-06
+}
+timestamp: 1508617911
+vehicle {
+  id: "11535"
+  label: "1535"
+}
+
+trip {
+  trip_id: "606002"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.98329544067383
+  longitude: -83.00506591796875
+}
+timestamp: 1508617905
+vehicle {
+  id: "11537"
+  label: "1537"
+}
+
+trip {
+  trip_id: "607159"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.94413757324219
+  longitude: -82.9830093383789
+  bearing: 90.0
+  speed: 2.4164435217244318e-06
+}
+timestamp: 1508617889
+vehicle {
+  id: "11538"
+  label: "1538"
+}
+
+trip {
+  trip_id: "608764"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.04308319091797
+  longitude: -82.97721862792969
+  speed: 6.041108917997917e-06
+}
+timestamp: 1508617905
+vehicle {
+  id: "11601"
+  label: "1601"
+}
+
+trip {
+  trip_id: "608173"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.97813034057617
+  longitude: -82.92251586914062
+  bearing: 270.0
+  speed: 1.0356186521676136e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "11603"
+  label: "1603"
+}
+
+trip {
+  trip_id: "607735"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.00252151489258
+  longitude: -82.9742660522461
+  bearing: 45.0
+}
+timestamp: 1508617898
+vehicle {
+  id: "11605"
+  label: "1605"
+}
+
+trip {
+  trip_id: "609040"
+  start_date: "20171021"
+  route_id: "009"
+}
+position {
+  latitude: 39.950687408447266
+  longitude: -83.1473159790039
+  bearing: 270.0
+}
+timestamp: 1508617898
+vehicle {
+  id: "11606"
+  label: "1606"
+}
+
+trip {
+  trip_id: "605421"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.94812774658203
+  longitude: -82.93729400634766
+  bearing: 270.0
+  speed: 6.213711913005682e-06
+}
+timestamp: 1508617896
+vehicle {
+  id: "11607"
+  label: "1607"
+}
+
+trip {
+  trip_id: "606321"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 39.92341613769531
+  longitude: -83.05949401855469
+  bearing: 225.0
+  speed: 6.558918357768562e-06
+}
+timestamp: 1508617911
+vehicle {
+  id: "11609"
+  label: "1609"
+}
+
+trip {
+  trip_id: "606697"
+  start_date: "20171021"
+  route_id: "004"
+}
+position {
+  latitude: 40.06047821044922
+  longitude: -83.0010757446289
+  bearing: 180.0
+}
+timestamp: 1508617910
+vehicle {
+  id: "11611"
+  label: "1611"
+}
+
+trip {
+  trip_id: "606664"
+  start_date: "20171021"
+  route_id: "004"
+}
+position {
+  latitude: 39.90407943725586
+  longitude: -82.94098663330078
+  bearing: 270.0
+  speed: 1.0356186976423487e-05
+}
+timestamp: 1508617905
+vehicle {
+  id: "11612"
+  label: "1612"
+}
+
+trip {
+  trip_id: "605436"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 40.03054428100586
+  longitude: -83.0313491821289
+  bearing: 45.0
+  speed: 6.041108917997917e-06
+}
+timestamp: 1508617894
+vehicle {
+  id: "11613"
+  label: "1613"
+}
+
+trip {
+  trip_id: "608236"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.99874496459961
+  longitude: -82.89259338378906
+  bearing: 270.0
+}
+timestamp: 1508617892
+vehicle {
+  id: "11614"
+  label: "1614"
+}
+
+trip {
+  trip_id: "610910"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 40.042274475097656
+  longitude: -82.90959167480469
+  bearing: 90.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "11617"
+  label: "1617"
+}
+
+trip {
+  trip_id: "610268"
+  start_date: "20171021"
+  route_id: "021"
+}
+position {
+  latitude: 40.02438735961914
+  longitude: -83.16034698486328
+  speed: 9.147965101874433e-06
+}
+timestamp: 1508617909
+vehicle {
+  id: "11701"
+  label: "1701"
+}
+
+trip {
+  trip_id: "610114"
+  start_date: "20171021"
+  route_id: "012"
+}
+position {
+  latitude: 39.95970153808594
+  longitude: -83.02088165283203
+  bearing: 90.0
+  speed: 7.421933787554735e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "11702"
+  label: "1702"
+}
+
+trip {
+  trip_id: "611465"
+  start_date: "20171021"
+  route_id: "025"
+}
+position {
+  latitude: 40.00016403198242
+  longitude: -82.85699462890625
+  bearing: 225.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "11703"
+  label: "1703"
+}
+
+trip {
+  trip_id: "610971"
+  start_date: "20171021"
+  route_id: "023"
+}
+position {
+  latitude: 39.95713424682617
+  longitude: -82.9146728515625
+  speed: 5.178093260838068e-07
+}
+timestamp: 1508617906
+vehicle {
+  id: "11707"
+  label: "1707"
+}
+
+trip {
+  trip_id: "611311"
+  start_date: "20171021"
+  route_id: "024"
+}
+position {
+  latitude: 40.03643035888672
+  longitude: -82.86500549316406
+  speed: 5.868505922990153e-06
+}
+timestamp: 1508617904
+vehicle {
+  id: "11709"
+  label: "1709"
+}
+
+trip {
+  trip_id: "612290"
+  start_date: "20171021"
+  route_id: "033"
+}
+position {
+  latitude: 40.12125015258789
+  longitude: -83.08319854736328
+  bearing: 270.0
+}
+timestamp: 1508617893
+vehicle {
+  id: "11712"
+  label: "1712"
+}
+
+trip {
+  trip_id: "612720"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.05995178222656
+  longitude: -82.95820617675781
+  bearing: 270.0
+}
+timestamp: 1508617893
+vehicle {
+  id: "11713"
+  label: "1713"
+}
+
+trip {
+  trip_id: "611312"
+  start_date: "20171021"
+  route_id: "024"
+}
+position {
+  latitude: 39.91857147216797
+  longitude: -82.8806381225586
+  speed: 1.7260310869460227e-07
+}
+timestamp: 1508617892
+vehicle {
+  id: "12711"
+  label: "2711"
+}
+
+trip {
+  trip_id: "611682"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 40.01517868041992
+  longitude: -83.00154113769531
+  bearing: 270.0
+  speed: 3.79726839128125e-06
+}
+timestamp: 1508617909
+vehicle {
+  id: "12715"
+  label: "2715"
+}
+
+trip {
+  trip_id: "611995"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 39.965301513671875
+  longitude: -83.0425033569336
+  bearing: 180.0
+}
+timestamp: 1508617898
+vehicle {
+  id: "12717"
+  label: "2717"
+}
+
+trip {
+  trip_id: "611975"
+  start_date: "20171021"
+  route_id: "032"
+}
+position {
+  latitude: 40.0302734375
+  longitude: -83.16903686523438
+  bearing: 180.0
+  speed: 4.1424746086704545e-06
+}
+timestamp: 1508617896
+vehicle {
+  id: "12721"
+  label: "2721"
+}
+
+trip {
+  trip_id: "607676"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.087406158447266
+  longitude: -82.9566650390625
+  bearing: 180.0
+}
+timestamp: 1508617894
+vehicle {
+  id: "12801"
+  label: "2801"
+}
+
+trip {
+  trip_id: "607067"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.98384094238281
+  longitude: -83.00484466552734
+  speed: 5.1780934882117435e-06
+}
+timestamp: 1508617905
+vehicle {
+  id: "12807"
+  label: "2807"
+}
+
+trip {
+  trip_id: "607161"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.99142074584961
+  longitude: -83.06619262695312
+  bearing: 270.0
+}
+timestamp: 1508617904
+vehicle {
+  id: "12811"
+  label: "2811"
+}
+
+trip {
+  trip_id: "608766"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 40.008140563964844
+  longitude: -82.97940063476562
+  speed: 5.350696483219508e-06
+}
+timestamp: 1508617904
+vehicle {
+  id: "12812"
+  label: "2812"
+}
+
+trip {
+  trip_id: "605437"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.939231872558594
+  longitude: -82.82745361328125
+  bearing: 180.0
+}
+timestamp: 1508617895
+vehicle {
+  id: "12813"
+  label: "2813"
+}
+
+trip {
+  trip_id: "607741"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.96864700317383
+  longitude: -82.99061584472656
+  bearing: 90.0
+  speed: 3.6246653962734854e-06
+}
+timestamp: 1508617898
+vehicle {
+  id: "12815"
+  label: "2815"
+}
+
+trip {
+  trip_id: "605957"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95552444458008
+  longitude: -82.78740692138672
+  bearing: 90.0
+}
+timestamp: 1508617905
+vehicle {
+  id: "12816"
+  label: "2816"
+}
+
+trip {
+  trip_id: "608715"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.96505355834961
+  longitude: -83.0003662109375
+  bearing: 90.0
+}
+timestamp: 1508617911
+vehicle {
+  id: "12817"
+  label: "2817"
+}
+
+trip {
+  trip_id: "607137"
+  start_date: "20171021"
+  route_id: "005"
+}
+position {
+  latitude: 39.982330322265625
+  longitude: -83.1545639038086
+  bearing: 270.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "12818"
+  label: "2818"
+}
+
+trip {
+  trip_id: "608235"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.98001480102539
+  longitude: -82.9129409790039
+  bearing: 270.0
+}
+timestamp: 1508617903
+vehicle {
+  id: "12819"
+  label: "2819"
+}
+
+trip {
+  trip_id: "608174"
+  start_date: "20171021"
+  route_id: "007"
+}
+position {
+  latitude: 39.95565414428711
+  longitude: -82.9924545288086
+  bearing: 270.0
+}
+timestamp: 1508617902
+vehicle {
+  id: "12820"
+  label: "2820"
+}
+
+trip {
+  trip_id: "606004"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95793151855469
+  longitude: -82.97046661376953
+  bearing: 270.0
+  speed: 2.9342529614950763e-06
+}
+timestamp: 1508617911
+vehicle {
+  id: "12822"
+  label: "2822"
+}
+
+trip {
+  trip_id: "609039"
+  start_date: "20171021"
+  route_id: "009"
+}
+position {
+  latitude: 39.96184539794922
+  longitude: -82.99600982666016
+  speed: 8.630155434730113e-07
+}
+timestamp: 1508617895
+vehicle {
+  id: "12823"
+  label: "2823"
+}
+
+trip {
+  trip_id: "605960"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.957218170166016
+  longitude: -82.98918914794922
+  bearing: 90.0
+}
+timestamp: 1508617899
+vehicle {
+  id: "12824"
+  label: "2824"
+}
+
+trip {
+  trip_id: "609502"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.95486068725586
+  longitude: -83.0741195678711
+  bearing: 90.0
+}
+timestamp: 1508617897
+vehicle {
+  id: "12826"
+  label: "2826"
+}
+
+trip {
+  trip_id: "608714"
+  start_date: "20171021"
+  route_id: "008"
+}
+position {
+  latitude: 39.88212966918945
+  longitude: -82.998291015625
+  bearing: 270.0
+}
+timestamp: 1508617907
+vehicle {
+  id: "12829"
+  label: "2829"
+}
+
+trip {
+  trip_id: "611466"
+  start_date: "20171021"
+  route_id: "025"
+}
+position {
+  latitude: 39.909934997558594
+  longitude: -82.822021484375
+  bearing: 180.0
+}
+timestamp: 1508617906
+vehicle {
+  id: "12831"
+  label: "2831"
+}
+
+trip {
+  trip_id: "611683"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 40.06075668334961
+  longitude: -82.90931701660156
+  bearing: 270.0
+}
+timestamp: 1508617908
+vehicle {
+  id: "12833"
+  label: "2833"
+}
+
+trip {
+  trip_id: "610282"
+  start_date: "20171021"
+  route_id: "021"
+}
+position {
+  latitude: 40.06672668457031
+  longitude: -83.09796142578125
+  bearing: 315.0
+  speed: 9.493171091889963e-06
+}
+timestamp: 1508617909
+vehicle {
+  id: "12834"
+  label: "2834"
+}
+
+trip {
+  trip_id: "611482"
+  start_date: "20171021"
+  route_id: "025"
+}
+position {
+  latitude: 40.02976608276367
+  longitude: -82.88970947265625
+  bearing: 180.0
+  speed: 8.975362106866669e-06
+}
+timestamp: 1508617900
+vehicle {
+  id: "12836"
+  label: "2836"
+}
+
+trip {
+  trip_id: "612252"
+  start_date: "20171021"
+  route_id: "033"
+}
+position {
+  latitude: 40.0730094909668
+  longitude: -83.09266662597656
+}
+timestamp: 1508617898
+vehicle {
+  id: "12840"
+  label: "2840"
+}
+
+trip {
+  trip_id: "605419"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.98047637939453
+  longitude: -82.99832916259766
+}
+timestamp: 1508617897
+vehicle {
+  id: "12905"
+  label: "2905"
+}
+
+trip {
+  trip_id: "609569"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.9557991027832
+  longitude: -83.05779266357422
+  bearing: 270.0
+}
+timestamp: 1508617896
+vehicle {
+  id: "12910"
+  label: "2910"
+}
+
+trip {
+  trip_id: "607675"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 40.05643844604492
+  longitude: -82.95330810546875
+  bearing: 180.0
+  speed: 1.0010980076913256e-05
+}
+timestamp: 1508617900
+vehicle {
+  id: "12912"
+  label: "2912"
+}
+
+trip {
+  trip_id: "613892"
+  start_date: "20171021"
+  route_id: "102"
+}
+position {
+  latitude: 39.987388610839844
+  longitude: -83.00550842285156
+  speed: 2.0712373043352272e-06
+}
+timestamp: 1508617900
+vehicle {
+  id: "12913"
+  label: "2913"
+}
+
+trip {
+  trip_id: "612659"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.05944061279297
+  longitude: -82.9533462524414
+  bearing: 90.0
+  speed: 1.3808248695568182e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "12914"
+  label: "2914"
+}
+
+trip {
+  trip_id: "609503"
+  start_date: "20171021"
+  route_id: "010"
+}
+position {
+  latitude: 39.950706481933594
+  longitude: -83.14749908447266
+  bearing: 270.0
+}
+timestamp: 1508617899
+vehicle {
+  id: "12915"
+  label: "2915"
+}
+
+trip {
+  trip_id: "606005"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95578384399414
+  longitude: -82.88593292236328
+  bearing: 270.0
+  speed: 2.7616497391136363e-06
+}
+timestamp: 1508617910
+vehicle {
+  id: "12916"
+  label: "2916"
+}
+
+trip {
+  trip_id: "605418"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 40.006080627441406
+  longitude: -83.01033782958984
+  bearing: 270.0
+}
+timestamp: 1508617904
+vehicle {
+  id: "12918"
+  label: "2918"
+}
+
+trip {
+  trip_id: "605420"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.95271682739258
+  longitude: -82.99313354492188
+  bearing: 270.0
+}
+timestamp: 1508617911
+vehicle {
+  id: "12919"
+  label: "2919"
+}
+
+trip {
+  trip_id: "606003"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95618438720703
+  longitude: -82.99945068359375
+  speed: 7.076727342791855e-06
+}
+timestamp: 1508617902
+vehicle {
+  id: "12920"
+  label: "2920"
+}
+
+trip {
+  trip_id: "607736"
+  start_date: "20171021"
+  route_id: "006"
+}
+position {
+  latitude: 39.95570755004883
+  longitude: -82.99215698242188
+  bearing: 270.0
+}
+timestamp: 1508617905
+vehicle {
+  id: "12921"
+  label: "2921"
+}
+
+trip {
+  trip_id: "605438"
+  start_date: "20171021"
+  route_id: "001"
+}
+position {
+  latitude: 39.93894958496094
+  longitude: -82.82727813720703
+  bearing: 45.0
+  speed: 5.868505922990153e-06
+}
+timestamp: 1508617895
+vehicle {
+  id: "12923"
+  label: "2923"
+}
+
+trip {
+  trip_id: "612721"
+  start_date: "20171021"
+  route_id: "034"
+}
+position {
+  latitude: 40.05781173706055
+  longitude: -82.91061401367188
+  bearing: 180.0
+}
+timestamp: 1508617893
+vehicle {
+  id: "12924"
+  label: "2924"
+}
+
+trip {
+  trip_id: "606001"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 40.01210403442383
+  longitude: -83.01074981689453
+  speed: 6.731521352776326e-06
+}
+timestamp: 1508617903
+vehicle {
+  id: "12925"
+  label: "2925"
+}
+
+trip {
+  trip_id: "610489"
+  start_date: "20171021"
+  route_id: "022"
+}
+position {
+  latitude: 39.87031936645508
+  longitude: -82.93424987792969
+  bearing: 180.0
+  speed: 9.838377081905492e-06
+}
+timestamp: 1508617904
+vehicle {
+  id: "12926"
+  label: "2926"
+}
+
+trip {
+  trip_id: "606006"
+  start_date: "20171021"
+  route_id: "002"
+}
+position {
+  latitude: 39.95473098754883
+  longitude: -82.84461975097656
+  bearing: 270.0
+  speed: 1.121920195146231e-05
+}
+timestamp: 1508617896
+vehicle {
+  id: "12928"
+  label: "2928"
+}
+
+trip {
+  trip_id: "606357"
+  start_date: "20171021"
+  route_id: "003"
+}
+position {
+  latitude: 39.968658447265625
+  longitude: -83.0050277709961
+  bearing: 270.0
+}
+timestamp: 1508617903
+vehicle {
+  id: "12929"
+  label: "2929"
+}
+
+trip {
+  trip_id: "611719"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 39.98179626464844
+  longitude: -83.04299926757812
+  bearing: 270.0
+  speed: 6.731521352776326e-06
+}
+timestamp: 1508617902
+vehicle {
+  id: "12934"
+  label: "2934"
+}
+
+trip {
+  trip_id: "611717"
+  start_date: "20171021"
+  route_id: "031"
+}
+position {
+  latitude: 40.04801559448242
+  longitude: -82.9156265258789
+  bearing: 90.0
+}
+timestamp: 1508617906
+vehicle {
+  id: "12935"
+  label: "2935"
+}
+
+trip {
+  trip_id: "615088"
+  start_date: "20171021"
+  route_id: "152"
+}
+position {
+  latitude: 39.998592376708984
+  longitude: -82.88497924804688
+}
+timestamp: 1508617908
+vehicle {
+  id: "12937"
+  label: "2937"
+}
+
+trip {
+  trip_id: "615053"
+  start_date: "20171021"
+  route_id: "152"
+}
+position {
+  latitude: 39.9986686706543
+  longitude: -82.8924560546875
+  bearing: 270.0
+}
+timestamp: 1508617897
+vehicle {
+  id: "12938"
+  label: "2938"
+}
+
+trip {
+  trip_id: "615054"
+  start_date: "20171021"
+  route_id: "152"
+}
+position {
+  latitude: 39.956443786621094
+  longitude: -82.99885559082031
+  bearing: 135.0
+}
+timestamp: 1508617891
+vehicle {
+  id: "12939"
+  label: "2939"
+}
